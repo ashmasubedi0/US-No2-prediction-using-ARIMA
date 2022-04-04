@@ -7,10 +7,13 @@ The studies of the natural environment such as geosphere, hydrosphere, biosphere
 
 Data is linked with everything we do. Data is utilized to capture our actions, from posting on social media to buying groceries at the shop to calories that we consume. Likewise, data is also tied to every aspect of the environment, such as yearly precipitation and temperature, changes in the volume of glaciers, number of protected species, etc. Both data science and environmental science are interdisciplinary fields. Look at the air pollution photo below. This is an area where results can be made based on a variety of levels, based on many interconnected variables such as health and pollution, crop production and pollution, etc. Environmental science fields such as climatic variables, pollution, etc. are becoming more data-driven, and they are moving toward open-sourcing their data.
 
+![](DSC_0053.jpg)
+
 One of the most challenging and intriguing projects that I have even done in this coding world was on Time Series Analysis of Nitrogen Dioxide (NO2). Time series modeling is a powerful method to describe and extract information from time-based data and helps to make informed decisions about future outcomes. Thanks to this project, now I can retrieve CSV dataset, visualize and transform the dataset into times series, test whether the time series is stationary or not, transform time series to stationary, build seasonal Autoregressive Integrated Moving Average (SARIMA) model using grid search method, and finally predict NO2 (shown below). More details of this can be found on my GitHub. 
 
+![](arima.jpg)
 
-The predicted value is shown at the end of the graph (blue color with light blue color as a confidence interval). I was fascinated when I first came across an interesting technique that could be used to explore enormous datasets in novel ways to get forecasted results. After receiving quite interesting results with the ARIMA model, my curiosity for Data Science increased more.
+I was fascinated when I first came across an interesting technique that could be used to explore enormous datasets in novel ways to get forecasted results. After receiving quite interesting results with the ARIMA model, my curiosity for Data Science increased more.
 Data science, in my opinion, is the future of data and the environment. That is the only way to assure that you get outstanding outcomes in a timely, repeatable, and consistent manner. 
 
 
